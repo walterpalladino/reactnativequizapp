@@ -1,0 +1,724 @@
+{
+	"games":[
+		{
+			"code":"6",
+			"name":"History",
+			"description":"History related Quizzes",
+      "color":"#ccffff",
+			"quizzes":[
+				{
+					"code":"3",
+					"game_code":"5",
+					"name":"Quiz 1",
+					"description":"Description for Quiz 1",
+					"options":[
+						{
+							"code":"7",
+							"quiz_code":"3",
+							"description":"Option 1"
+						},
+						{
+							"code":"8",
+							"quiz_code":"3",
+							"description":"Option 2"
+						},
+						{
+							"code":"9",
+							"quiz_code":"3",
+							"description":"Option 3"
+						}
+					],
+					"quiz_option_code":"8",
+					"quiz_answer":"You did it!!",
+					"score":"100"
+				},
+				{
+					"code":"4",
+					"game_code":"5",
+					"name":"Quiz 2",
+					"description":"Description for Quiz 2",
+					"options":[
+						{
+							"code":"10",
+							"quiz_code":"4",
+							"description":"Option 1"
+						},
+						{
+							"code":"11",
+							"quiz_code":"4",
+							"description":"Option 2"
+						},
+						{
+							"code":"12",
+							"quiz_code":"4",
+							"description":"Option 3"
+						},
+						{
+							"code":"13",
+							"quiz_code":"4",
+							"description":"Option 4"
+						}
+					],
+					"quiz_option_code":"11",
+					"quiz_answer":"Second Quiz",
+					"score":"100"
+				},
+				{
+					"code":"5",
+					"game_code":"5",
+					"name":"Quiz 3",
+					"description":"Description for Quiz 3",
+					"options":[
+						{
+							"code":"14",
+							"quiz_code":"5",
+							"description":"Option 1"
+						},
+						{
+							"code":"15",
+							"quiz_code":"5",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"15",
+					"quiz_answer":"Again",
+					"score":"100"
+				},
+				{
+					"code":"6",
+					"game_code":"5",
+					"name":"Quiz 4",
+					"description":"Description for Quiz 4",
+					"options":[
+						{
+							"code":"16",
+							"quiz_code":"6",
+							"description":"Lorem ipsum"
+						},
+						{
+							"code":"17",
+							"quiz_code":"6",
+							"description":"Aenean sed urna nec turpis consectetur venenatis. Morbi rhoncus mattis augue"
+						},
+						{
+							"code":"65",
+							"quiz_code":"6",
+							"description":"Vestibulum bibendum dolor purus, quis lacinia est sollicitudin in. Mauris vehicula sed lorem eu mattis. In pretium erat mauris."
+						},
+						{
+							"code":"66",
+							"quiz_code":"6",
+							"description":"Vivamus elementum diam eget tortor bibendum congue. Vivamus vitae rhoncus metus. Maecenas porta eros vel vehicula sollicitudin. Morbi eu volutpat lorem. Curabitur ornare id massa et iaculis. Cras mollis finibus sagittis."
+						}
+					],
+					"quiz_option_code":"17",
+					"quiz_answer":"Al fin!!!",
+					"score":"100"
+				},
+				{
+					"code":"7",
+					"game_code":"5",
+					"name":"Quiz 5",
+					"description":"Descriptuiuon for Quiz 5",
+					"options":[
+						{
+							"code":"18",
+							"quiz_code":"7",
+							"description":"Option 1"
+						},
+						{
+							"code":"19",
+							"quiz_code":"7",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"19",
+					"quiz_answer":"Answer this",
+					"score":"0"
+				},
+				{
+					"code":"62",
+					"game_code":"5",
+					"name":"Quiz 6",
+					"description":"Description for Quiz 6",
+					"options":[
+						{
+							"code":"222",
+							"quiz_code":"62",
+							"description":"Wrong Answer"
+						},
+						{
+							"code":"223",
+							"quiz_code":"62",
+							"description":"Right Answer"
+						}
+					],
+					"quiz_option_code":"223",
+					"quiz_answer":"Answer for Condarco & Nogoya x 2",
+					"score":"0"
+				}
+			]
+		},
+		{
+			"code":"8",
+			"name":"Geography",
+			"description":"Geography related Quizzes",
+      "color":"#ffccff",
+			"quizzes":[
+				{
+					"code":"3",
+					"game_code":"5",
+					"name":"Quiz 1",
+					"description":"Description for Quiz 1",
+					"options":[
+						{
+							"code":"7",
+							"quiz_code":"3",
+							"description":"Option 1"
+						},
+						{
+							"code":"8",
+							"quiz_code":"3",
+							"description":"Option 2"
+						},
+						{
+							"code":"9",
+							"quiz_code":"3",
+							"description":"Option 3"
+						}
+					],
+					"quiz_option_code":"8",
+					"quiz_answer":"You did it!!",
+					"score":"100"
+				},
+				{
+					"code":"4",
+					"game_code":"5",
+					"name":"Quiz 2",
+					"description":"Description for Quiz 2",
+					"options":[
+						{
+							"code":"10",
+							"quiz_code":"4",
+							"description":"Option 1"
+						},
+						{
+							"code":"11",
+							"quiz_code":"4",
+							"description":"Option 2"
+						},
+						{
+							"code":"12",
+							"quiz_code":"4",
+							"description":"Option 3"
+						},
+						{
+							"code":"13",
+							"quiz_code":"4",
+							"description":"Option 4"
+						}
+					],
+					"quiz_option_code":"11",
+					"quiz_answer":"Second Quiz",
+					"score":"100"
+				},
+				{
+					"code":"5",
+					"game_code":"5",
+					"name":"Quiz 3",
+					"description":"Description for Quiz 3",
+					"options":[
+						{
+							"code":"14",
+							"quiz_code":"5",
+							"description":"Option 1"
+						},
+						{
+							"code":"15",
+							"quiz_code":"5",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"15",
+					"quiz_answer":"Again",
+					"score":"100"
+				},
+				{
+					"code":"6",
+					"game_code":"5",
+					"name":"Quiz 4",
+					"description":"Description for Quiz 4",
+					"options":[
+						{
+							"code":"16",
+							"quiz_code":"6",
+							"description":"Lorem ipsum"
+						},
+						{
+							"code":"17",
+							"quiz_code":"6",
+							"description":"Aenean sed urna nec turpis consectetur venenatis. Morbi rhoncus mattis augue"
+						},
+						{
+							"code":"65",
+							"quiz_code":"6",
+							"description":"Vestibulum bibendum dolor purus, quis lacinia est sollicitudin in. Mauris vehicula sed lorem eu mattis. In pretium erat mauris."
+						},
+						{
+							"code":"66",
+							"quiz_code":"6",
+							"description":"Vivamus elementum diam eget tortor bibendum congue. Vivamus vitae rhoncus metus. Maecenas porta eros vel vehicula sollicitudin. Morbi eu volutpat lorem. Curabitur ornare id massa et iaculis. Cras mollis finibus sagittis."
+						}
+					],
+					"quiz_option_code":"17",
+					"quiz_answer":"Al fin!!!",
+					"score":"100"
+				},
+				{
+					"code":"7",
+					"game_code":"5",
+					"name":"Quiz 5",
+					"description":"Descriptuiuon for Quiz 5",
+					"options":[
+						{
+							"code":"18",
+							"quiz_code":"7",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"19",
+							"quiz_code":"7",
+							"order_position":"1",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"19",
+					"quiz_answer":"Answer this",
+					"quiz_image":null,
+					"score":"0"
+				},
+				{
+					"code":"62",
+					"game_code":"5",
+					"name":"Quiz 6",
+					"description":"Description for Quiz 6",
+					"image":null,
+					"order_position":"5",
+					"options":[
+						{
+							"code":"222",
+							"quiz_code":"62",
+							"order_position":"0",
+							"description":"Wrong Answer"
+						},
+						{
+							"code":"223",
+							"quiz_code":"62",
+							"order_position":"1",
+							"description":"Right Answer"
+						}
+					],
+					"quiz_option_code":"223",
+					"quiz_answer":"Answer for Condarco & Nogoya x 2",
+					"quiz_image":null,
+					"score":"0"
+				}
+			]
+		},
+		{
+			"code":"9",
+			"name":"Sports",
+			"description":"Sports related Quizzes",
+			"image":null,
+      "color":"#ffffcc",
+			"status":"0",
+			"quizzes":null,
+			"order_position":"2",
+			"last_update_date":1504519946,
+			"quizzes":[
+				{
+					"code":"3",
+					"game_code":"5",
+					"name":"Quiz 1",
+					"description":"Description for Quiz 1",
+					"image":null,
+					"order_position":"0",
+					"options":[
+						{
+							"code":"7",
+							"quiz_code":"3",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"8",
+							"quiz_code":"3",
+							"order_position":"1",
+							"description":"Option 2"
+						},
+						{
+							"code":"9",
+							"quiz_code":"3",
+							"order_position":"2",
+							"description":"Option 3"
+						}
+					],
+					"quiz_option_code":"8",
+					"quiz_answer":"You did it!!",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"4",
+					"game_code":"5",
+					"name":"Quiz 2",
+					"description":"Description for Quiz 2",
+					"image":null,
+					"order_position":"1",
+					"options":[
+						{
+							"code":"10",
+							"quiz_code":"4",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"11",
+							"quiz_code":"4",
+							"order_position":"1",
+							"description":"Option 2"
+						},
+						{
+							"code":"12",
+							"quiz_code":"4",
+							"order_position":"2",
+							"description":"Option 3"
+						},
+						{
+							"code":"13",
+							"quiz_code":"4",
+							"order_position":"3",
+							"description":"Option 4"
+						}
+					],
+					"quiz_option_code":"11",
+					"quiz_answer":"Second Quiz",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"5",
+					"game_code":"5",
+					"name":"Quiz 3",
+					"description":"Description for Quiz 3",
+					"image":null,
+					"order_position":"2",
+					"options":[
+						{
+							"code":"14",
+							"quiz_code":"5",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"15",
+							"quiz_code":"5",
+							"order_position":"1",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"15",
+					"quiz_answer":"Again",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"6",
+					"game_code":"5",
+					"name":"Quiz 4",
+					"description":"Description for Quiz 4",
+					"image":null,
+					"order_position":"3",
+					"options":[
+						{
+							"code":"16",
+							"quiz_code":"6",
+							"order_position":"0",
+							"description":"Lorem ipsum"
+						},
+						{
+							"code":"17",
+							"quiz_code":"6",
+							"order_position":"1",
+							"description":"Aenean sed urna nec turpis consectetur venenatis. Morbi rhoncus mattis augue"
+						},
+						{
+							"code":"65",
+							"quiz_code":"6",
+							"order_position":"2",
+							"description":"Vestibulum bibendum dolor purus, quis lacinia est sollicitudin in. Mauris vehicula sed lorem eu mattis. In pretium erat mauris."
+						},
+						{
+							"code":"66",
+							"quiz_code":"6",
+							"order_position":"3",
+							"description":"Vivamus elementum diam eget tortor bibendum congue. Vivamus vitae rhoncus metus. Maecenas porta eros vel vehicula sollicitudin. Morbi eu volutpat lorem. Curabitur ornare id massa et iaculis. Cras mollis finibus sagittis."
+						}
+					],
+					"quiz_option_code":"17",
+					"quiz_answer":"Al fin!!!",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"7",
+					"game_code":"5",
+					"name":"Quiz 5",
+					"description":"Descriptuiuon for Quiz 5",
+					"image":null,
+					"order_position":"4",
+					"options":[
+						{
+							"code":"18",
+							"quiz_code":"7",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"19",
+							"quiz_code":"7",
+							"order_position":"1",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"19",
+					"quiz_answer":"Answer this",
+					"quiz_image":null,
+					"score":"0"
+				},
+				{
+					"code":"62",
+					"game_code":"5",
+					"name":"Quiz 6",
+					"description":"Description for Quiz 6",
+					"image":null,
+					"order_position":"5",
+					"options":[
+						{
+							"code":"222",
+							"quiz_code":"62",
+							"order_position":"0",
+							"description":"Wrong Answer"
+						},
+						{
+							"code":"223",
+							"quiz_code":"62",
+							"order_position":"1",
+							"description":"Right Answer"
+						}
+					],
+					"quiz_option_code":"223",
+					"quiz_answer":"Answer for Condarco & Nogoya x 2",
+					"quiz_image":null,
+					"score":"0"
+				}
+			]
+		},
+		{
+			"code":"10",
+			"name":"Arts",
+			"description":"Arts related Quizzes",
+			"image":null,
+      "color":"#ccffcc",
+			"status":"0",
+			"quizzes":null,
+			"order_position":"3",
+			"last_update_date":1504519993,
+			"quizzes":[
+				{
+					"code":"3",
+					"game_code":"5",
+					"name":"Quiz 1",
+					"description":"Description for Quiz 1",
+					"image":null,
+					"order_position":"0",
+					"options":[
+						{
+							"code":"7",
+							"quiz_code":"3",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"8",
+							"quiz_code":"3",
+							"order_position":"1",
+							"description":"Option 2"
+						},
+						{
+							"code":"9",
+							"quiz_code":"3",
+							"order_position":"2",
+							"description":"Option 3"
+						}
+					],
+					"quiz_option_code":"8",
+					"quiz_answer":"You did it!!",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"4",
+					"game_code":"5",
+					"name":"Quiz 2",
+					"description":"Description for Quiz 2",
+					"image":null,
+					"order_position":"1",
+					"options":[
+						{
+							"code":"10",
+							"quiz_code":"4",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"11",
+							"quiz_code":"4",
+							"order_position":"1",
+							"description":"Option 2"
+						},
+						{
+							"code":"12",
+							"quiz_code":"4",
+							"order_position":"2",
+							"description":"Option 3"
+						},
+						{
+							"code":"13",
+							"quiz_code":"4",
+							"order_position":"3",
+							"description":"Option 4"
+						}
+					],
+					"quiz_option_code":"11",
+					"quiz_answer":"Second Quiz",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"5",
+					"game_code":"5",
+					"name":"Quiz 3",
+					"description":"Description for Quiz 3",
+					"image":null,
+					"order_position":"2",
+					"options":[
+						{
+							"code":"14",
+							"quiz_code":"5",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"15",
+							"quiz_code":"5",
+							"order_position":"1",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"15",
+					"quiz_answer":"Again",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"6",
+					"game_code":"5",
+					"name":"Quiz 4",
+					"description":"Description for Quiz 4",
+					"image":null,
+					"order_position":"3",
+					"options":[
+						{
+							"code":"16",
+							"quiz_code":"6",
+							"order_position":"0",
+							"description":"Lorem ipsum"
+						},
+						{
+							"code":"17",
+							"quiz_code":"6",
+							"order_position":"1",
+							"description":"Aenean sed urna nec turpis consectetur venenatis. Morbi rhoncus mattis augue"
+						},
+						{
+							"code":"65",
+							"quiz_code":"6",
+							"order_position":"2",
+							"description":"Vestibulum bibendum dolor purus, quis lacinia est sollicitudin in. Mauris vehicula sed lorem eu mattis. In pretium erat mauris."
+						},
+						{
+							"code":"66",
+							"quiz_code":"6",
+							"order_position":"3",
+							"description":"Vivamus elementum diam eget tortor bibendum congue. Vivamus vitae rhoncus metus. Maecenas porta eros vel vehicula sollicitudin. Morbi eu volutpat lorem. Curabitur ornare id massa et iaculis. Cras mollis finibus sagittis."
+						}
+					],
+					"quiz_option_code":"17",
+					"quiz_answer":"Al fin!!!",
+					"quiz_image":null,
+					"score":"100"
+				},
+				{
+					"code":"7",
+					"game_code":"5",
+					"name":"Quiz 5",
+					"description":"Descriptuiuon for Quiz 5",
+					"image":null,
+					"order_position":"4",
+					"options":[
+						{
+							"code":"18",
+							"quiz_code":"7",
+							"order_position":"0",
+							"description":"Option 1"
+						},
+						{
+							"code":"19",
+							"quiz_code":"7",
+							"order_position":"1",
+							"description":"Option 2"
+						}
+					],
+					"quiz_option_code":"19",
+					"quiz_answer":"Answer this",
+					"score":"0"
+				},
+				{
+					"code":"62",
+					"game_code":"5",
+					"name":"Quiz 6",
+					"description":"Description for Quiz 6",
+					"options":[
+						{
+							"code":"222",
+							"quiz_code":"62",
+							"order_position":"0",
+							"description":"Wrong Answer"
+						},
+						{
+							"code":"223",
+							"quiz_code":"62",
+							"order_position":"1",
+							"description":"Right Answer"
+						}
+					],
+					"quiz_option_code":"223",
+					"quiz_answer":"Answer for Condarco & Nogoya x 2",
+					"score":"0"
+				}
+			]
+		}
+	]
+}

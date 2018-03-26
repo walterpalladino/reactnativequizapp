@@ -6,7 +6,7 @@ Quiz App using React Native
 This app is a simple example about how to create a React Native app for a simple quiz game.
 You can find a post describing this app in detail [here at my site](http://www.walterpalladino.com)
 
-##Dependencies
+## Dependencies
 This app requires the next dependencies:
 
 * react-native-sound for playing sound

@@ -1,0 +1,292 @@
+{
+	"games":[
+		{
+			"code":"1",
+			"name":"History",
+			"description":"History Related Quizzes",
+      		"color":"#feec1c",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"World War I began in which year?",
+					"options":[
+						{
+							"code":"1",
+							"description":"1923"
+						},
+						{
+							"code":"2",
+							"description":"1938"
+						},
+						{
+							"code":"3",
+							"description":"1917"
+						},
+						{
+							"code":"4",
+							"description":"1914"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"The World War I began in 1914"
+				},
+				{
+					"code":"2",
+					"description":"The Magna Carta was published by the King of which country?",
+					"options":[
+						{
+							"code":"1",
+							"description":"France"
+						},
+						{
+							"code":"2",
+							"description":"Austria"
+						},
+						{
+							"code":"3",
+							"description":"Italy"
+						},
+						{
+							"code":"4",
+							"description":"England"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"The Magna Carta was published by the King of England"
+				},
+				{
+					"code":"3",
+					"description":"The first successful printing press was developed by ...",
+					"options":[
+						{
+							"code":"1",
+							"description":"Johannes Gutenburg"
+						},
+						{
+							"code":"2",
+							"description":"Benjamin Franklin"
+						},
+						{
+							"code":"3",
+							"description":"Sir Isaac Newton"
+						},
+						{
+							"code":"4",
+							"description":"Martin Luther"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"The first successful printing press was developed by Johannes Gutenburg"
+				},
+				{
+					"code":"4",
+					"description":"Which Roman Emperor built a massive wall across Northern Britain in 122 A.D.?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Marcus Aurelius"
+						},
+						{
+							"code":"2",
+							"description":"Hadrian"
+						},
+						{
+							"code":"3",
+							"description":"Nero"
+						},
+						{
+							"code":"4",
+							"description":"Augustus"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"The Roman Emperor who built a massive wall across Northern Britain in 122 A.D. was Hadrian"
+				},
+				{
+					"code":"5",
+					"description":"Who was the first Western explorer to reach China?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Magellan"
+						},
+						{
+							"code":"2",
+							"description":"Cook"
+						},
+						{
+							"code":"3",
+							"description":"Marco Polo"
+						},
+						{
+							"code":"4",
+							"description":"Sir Francis Drake"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"The first Western explorer to reach China was Marco Polo"
+				}
+			]
+		},
+		{
+			"code":"2",
+			"name":"Geography",
+			"description":"Geography Related Quizzes",
+      		"color":"#1bd0fd",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"Which of these countries covers the smallest total area?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Italy"
+						},
+						{
+							"code":"2",
+							"description":"Nigeria"
+						},
+						{
+							"code":"3",
+							"description":"Peru"
+						},
+						{
+							"code":"4",
+							"description":"Cameroon"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"The country which covers the smallest area from the listed is Italy"
+				},
+				{
+					"code":"2",
+					"description":"Where in Chile is the Atacama Desert situated?",
+					"options":[
+						{
+							"code":"1",
+							"description":"In The South"
+						},
+						{
+							"code":"2",
+							"description":"In The North"
+						},
+						{
+							"code":"3",
+							"description":"In The Central Part"
+						},
+						{
+							"code":"4",
+							"description":"Not Situated In Chile"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"The Atacama Desert is situated in the North of Chile"
+				},
+				{
+					"code":"2",
+					"description":"Which island in the Atlantic has one of the world's highest volcanic mountains?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Tenerife"
+						},
+						{
+							"code":"2",
+							"description":"Madeira"
+						},
+						{
+							"code":"3",
+							"description":"Iceland"
+						},
+						{
+							"code":"4",
+							"description":"Iceland"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"The island in the Atlantic with one of the world's highest volcanic mountains is Tenerife"
+				}
+			]
+		},
+		{
+			"code":"3",
+			"name":"Movies",
+			"description":"Movies Related Quizzes",
+      		"color":"#ff98d5",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"What did Yoda mean in saying \"There is another\"?",
+					"options":[
+						{
+							"code":"1",
+							"description":"There Is Another Sith Lord"
+						},
+						{
+							"code":"2",
+							"description":"There Is Another Skywalker"
+						},
+						{
+							"code":"3",
+							"description":"There Is Another Planet"
+						},
+						{
+							"code":"4",
+							"description":"There Is Another Jedi Council"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Yoda means there is another Skywalker"
+				},
+				{
+					"code":"2",
+					"description":"What city is attacked in the 2008 film \"Cloverfield\"?",
+					"options":[
+						{
+							"code":"1",
+							"description":"New York City"
+						},
+						{
+							"code":"2",
+							"description":"Los Angeles"
+						},
+						{
+							"code":"3",
+							"description":"New Jersey"
+						},
+						{
+							"code":"4",
+							"description":"Washington DC"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"The city attacked is New York"
+				},
+				{
+					"code":"3",
+					"description":"On the set of \"Jaws\", which character was nicknamed \"Bruce\"?",
+					"options":[
+						{
+							"code":"1",
+							"description":"The Shark"
+						},
+						{
+							"code":"2",
+							"description":"Quint"
+						},
+						{
+							"code":"3",
+							"description":"Chief Martin Brody"
+						},
+						{
+							"code":"4",
+							"description":"Matt Hooper"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"On the set of \"Jaws\", \"The Shark\" was nicknamed \"Bruce\""
+				}
+			]
+		}
+	]
+}

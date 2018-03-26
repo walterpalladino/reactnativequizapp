@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/raw/gamelist.json",
+      "sha1": "f961f1d7cec7cf093d9d4fb7a2f2e213a5b5b731"
+    },
+    {
+      "path": "assets/raw/gamelist_bk.json",
+      "sha1": "189d21231d16e18cea69a7e3328f8c84175d70a2"
+    },
+    {
+      "path": "assets/sounds/sound_error.mp3",
+      "sha1": "8cddaacaec46cdca7b80e8a51310af4703f96610"
+    },
+    {
+      "path": "assets/sounds/sound_success.mp3",
+      "sha1": "1c801d1338bbec897319c5f637a0588f9efac91f"
+    }
+  ]
+}
